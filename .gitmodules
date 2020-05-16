@@ -1,0 +1,6 @@
+[submodule "AhoyAndroid"]
+	path = AhoyAndroid
+	url = https://github.com/santisme/AhoyAndroid.git
+[submodule "AhoyiOS"]
+	path = AhoyiOS
+	url = https://github.com/santisme/AhoyiOS.git
